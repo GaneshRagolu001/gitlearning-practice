@@ -1,0 +1,12 @@
+
+USER@DESKTOP-OBLR2U0 MINGW64 ~/OneDrive/Desktop/GitPractice (main)
+$ del names.txtt
+bash: del: command not found
+
+USER@DESKTOP-OBLR2U0 MINGW64 ~/
+USER@DESKTOP-OBLR2U0 MINGW64 ~/OneDrive/Desktop/GitPractice (main)
+$ del names.txtt
+bash: del: command not found
+
+USER@DESKTOP-OBLR2U0 MINGW64
+hello iam ganesh
